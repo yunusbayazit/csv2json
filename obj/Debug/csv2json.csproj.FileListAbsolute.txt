@@ -1,8 +1,0 @@
-c:\users\yunusemre\documents\visual studio 2015\Projects\csv2json\csv2json\bin\Debug\csv2json.exe.config
-c:\users\yunusemre\documents\visual studio 2015\Projects\csv2json\csv2json\bin\Debug\csv2json.exe
-c:\users\yunusemre\documents\visual studio 2015\Projects\csv2json\csv2json\bin\Debug\csv2json.pdb
-c:\users\yunusemre\documents\visual studio 2015\Projects\csv2json\csv2json\bin\Debug\Newtonsoft.Json.dll
-c:\users\yunusemre\documents\visual studio 2015\Projects\csv2json\csv2json\bin\Debug\Newtonsoft.Json.xml
-c:\users\yunusemre\documents\visual studio 2015\Projects\csv2json\csv2json\obj\Debug\csv2json.csprojResolveAssemblyReference.cache
-c:\users\yunusemre\documents\visual studio 2015\Projects\csv2json\csv2json\obj\Debug\csv2json.exe
-c:\users\yunusemre\documents\visual studio 2015\Projects\csv2json\csv2json\obj\Debug\csv2json.pdb
